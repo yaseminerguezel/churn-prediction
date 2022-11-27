@@ -4,6 +4,7 @@ Churn prediciton means which customers are likely to leave a service or cancel a
 
 
 
+![210713_Churn-Prediction](https://user-images.githubusercontent.com/80640292/204143580-17f625de-8482-42c8-b128-bcdd633cea85.png)
 
 
 
